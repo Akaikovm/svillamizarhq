@@ -68,7 +68,7 @@ export function Hero() {
               className="w-full h-full object-cover object-top"
               width={224}
               height={224}
-              fetchpriority="high"
+              fetchPriority="high"
             />
           </div>
         </div>
