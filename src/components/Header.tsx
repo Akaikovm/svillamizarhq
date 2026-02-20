@@ -21,7 +21,7 @@ export function Header() {
             href="#hero"
             className="font-semibold font-mono text-lg tracking-tight text-surface-900 dark:text-white hover:text-accent dark:hover:text-accent-light transition-colors duration-200"
           >
-            <span className="sm:hidden">SV</span>
+            <span className="sm:hidden">SVillamizarHq</span>
             <span className="hidden sm:inline">SVillamizarHq</span>
           </a>
           <nav className="hidden md:flex items-center gap-8">
