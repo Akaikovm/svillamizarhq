@@ -37,7 +37,7 @@ export function Hero() {
             className="mt-6 text-slate-600 dark:text-slate-400 leading-relaxed max-w-xl animate-slide-up opacity-0"
             style={{ animationDelay: '0.5s', animationFillMode: 'forwards' }}
           >
-            I build robust web applications with React and TypeScript. From Venezuela, passionate about drums, gaming, and clean code.
+            I build robust web applications with React and TypeScript. From Venezuela, passionate about music, gaming, and clean code.
           </p>
           <div
             className="relative mt-10 flex flex-wrap gap-4 animate-slide-up opacity-0"
